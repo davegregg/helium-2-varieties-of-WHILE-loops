@@ -1,2 +1,2 @@
 console.log("She runs faster than cars.")
-console.log(riddle)
+// console.log(riddle)
